@@ -62,4 +62,3 @@ Feel free to check out my problem-solving progress and follow along. Contributio
 
 ### License:
 This repository is licensed under the MIT License.
-```
