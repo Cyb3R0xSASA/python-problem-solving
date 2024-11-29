@@ -60,5 +60,11 @@ Feel free to check out my problem-solving progress and follow along. Contributio
   - Push your changes to your branch
   - Create a pull request
 
-### License:
-This repository is licensed under the MIT License.
+### Contact with me:
+- [LinkedIn](https://www.linkedin.com/in/s-a-s--a-/)
+- [X-Twitter](https://x.com/s_a_s__a_)
+- [LeetCode](https://leetcode.com/u/s_a_s__a_/)
+
+
+## License:
+- **This repository is licensed under the **MIT** License.**
